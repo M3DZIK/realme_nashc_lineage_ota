@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "",
-      "filename": "",
-      "id": "",
+      "datetime": "1678385780",
+      "filename": "lineage-20.0-20230309-UNOFFICIAL-nashc.zip",
+      "id": "1956cdb9833823002ed6429230f3feda7dd25c70daa3824b7b349e6dfa49e8d9",
       "romtype": "UNOFFICIAL",
-      "size": "",
-      "url": "https://github.com/M3DZIK/realme_nashc_lineage_ota/releases/download/nashc-D/F",
+      "size": "1061944795",
+      "url": "https://github.com/M3DZIK/realme_nashc_lineage_ota/releases/download/20230309/lineage-20.0-20230309-UNOFFICIAL-nashc.zip",
       "version": "20.0"
     }
   ]
